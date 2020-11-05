@@ -1,2 +1,5 @@
 # Finite-State-Machine
-A rendition of a finite state machine, where inputs are received and responses are based on the current state the machine is in.
+Inputs are received and responses are based on the current state the machine is in, before moving on to a new state.
+
+### Execution
+Run with: java fsfminterpreter test.txt < input.txt
